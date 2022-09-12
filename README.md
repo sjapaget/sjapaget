@@ -12,10 +12,10 @@ Born in the UK, lived in France & the Netherlands, now in Stockholm, Sweden!
 - Node.js
 - Rails i18n
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/sjapaget">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjapaget&count_private=true&show_icons=true&theme=dark&layout=compact" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjapaget&count_private=true&show_icons=true&theme=dark&hide=stars&include_all_commits=true" />
+<a href="https://github.com/sjapaget">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjapaget&count_private=true&show_icons=true&theme=dark&hide=stars" />
 </a>
