@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A curious and passionate Full Stack Developer originally from the UK</h3>
+<h1 align="center">Hi, I'm Sam :bike:</h1>
+<h3 align="center">A curious and passionate Full Stack Developer originally from the UK, and now living in Stockholm!</h3>
 
 - 🔭 I’m currently working on [Catch Up Movies](https://www.catchupmovies.xyz/)
 
