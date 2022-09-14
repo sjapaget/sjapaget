@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Catch Up Movies](https://www.catchupmovies.xyz/)
 
-- 🌱 I’m currently learning **Rails i18n, React, Wordpress**
+- 🌱 I’m currently learning **RSpec and React**
 
 - 👯 I’m looking to collaborate on [Concert Tracker](http://www.sjapaget.me/)
 
