@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Sam :bike:</h1>
-<h3 align="center">A curious and passionate Full Stack Developer originally from the UK, and now living in Stockholm!</h3>
+<h3 align="center">A curious and passionate Full Stack Developer originally from the UK, and now living in Paris!</h3>
 
 - 🔭 My end of bootcamp project done at Le Wagon: [Catch Up Movies](https://www.catchupmovies.xyz/)
 
-- 🌱 I’m currently learning **RSpec and React**
+- 🌱 Currently learning **RSpec and React**
 
-- :books: I'm currently working on [Shelfer](https://github.com/sjapaget/shelfer)
+- :books: Currently working on [Shelfer](https://github.com/sjapaget/shelfer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
