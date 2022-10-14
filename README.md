@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **RSpec and React**
 
-- :books: Currently working on [Shelfer](https://github.com/sjapaget/shelfer)
+- :books: Currently working on [Shelfer](https://github.com/sjapaget/shelfer) (Ruby on Rails API, RSpec, React, Tailwind CSS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
