@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/sjapaget" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sjapaget" height="30" width="40" /></a>
 </p>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
+
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
     <div>
@@ -37,6 +37,6 @@
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </div>
   </p>
-
+  
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjapaget&show_icons=true&locale=en&layout=compact" alt="sjapaget" /></p>
 </div>
