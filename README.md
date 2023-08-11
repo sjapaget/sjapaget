@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sam :bike:</h1>
 <h3 align="center">A curious and passionate Full Stack Developer originally from the UK, and now living in Paris!</h3>
 
-- 🔭 My end of bootcamp project done at Le Wagon: [Catch Up Movies](https://www.catchupmovies.xyz/)
+- 🔭 My end of bootcamp project done at Le Wagon: [Catch Up Movies](https://github.com/sjapaget/catch_up_movies)
 
 - 🌱 Currently learning **RSpec and React**
 
