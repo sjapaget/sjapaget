@@ -1,18 +1,4 @@
 <h1 align="center">Hi, I'm Sam :bike:</h1>
-<h3 align="center">A curious and passionate Full Stack Developer originally from the UK, and now living in Paris!</h3>
-
-- 🔭 My end of bootcamp project done at Le Wagon: [Catch Up Movies](https://github.com/sjapaget/catch_up_movies)
-
-- 🌱 Currently learning **RSpec and React**
-
-- :books: Currently working on [A Digital Escape Game](https://github.com/sjapaget/escape-game-react) (React, Tailwind CSS), WIP on netlify [here](https://www.sjapaget.online/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sjapaget" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sjapaget" height="30" width="40" /></a>
-</p>
-
-
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
     <div>
